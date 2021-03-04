@@ -1,1 +1,2 @@
 # Rogue-Waves-CofC-UCF-Project
+This repository contains notes and exercises in regards to a UCF and CofC partnered project on different aspects of rogue waves. All files are created in Python using Scipy and a few other modules. The subsequent files within can range from assorted numerical exercises in textbooks, pseudo code and reference code to build and put into larger projects. Any questions to ellisorl@g.cofc.edu. 
